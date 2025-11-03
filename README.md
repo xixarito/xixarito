@@ -3,8 +3,11 @@
 **Senior Software Engineer** with 12+ years building enterprise eCommerce solutions, now specializing in **AI/ML Engineering**.
 
 🔭 Currently working on: AI-powered solutions for eCommerce (recommendation systems, intelligent customer service)
+
 🌱 Learning: LangChain, RAG systems, LLM application development
+
 💼 Experience: Led technical teams at Puig (Spain), EPAM, Grupo Gigante
+
 🎓 Studying: Master in Blockchain Engineering + AI/ML courses (Tec de Monterrey)
 
 ### 🚀 Featured Projects
